@@ -33,11 +33,12 @@ Since this is an expensive project, this can be only done with assistance from g
  
  ## Project Roadmap
  
+
  ![Capture](https://user-images.githubusercontent.com/65534301/122576359-3be8ec80-d06f-11eb-8509-835235a50a1a.JPG)
 
 ## Live Demo
 
-https://youtu.be/xBh90E4xkTw
+[![Watch the video](https://user-images.githubusercontent.com/65534301/122592057-73609480-d081-11eb-99d1-d050406dba5d.png)](https://youtu.be/xBh90E4xkTw)
 
 ## Built with 
 
