@@ -19,3 +19,4 @@ The mobile application is created using flutter™ (dart), where the user will b
 These are made possible by calling data from the cloudant™ database by creating an instance of it in the app. By this way, we can build an effective way to reduce the wastage of electricity in the households.
 Since this is an expensive project, this can be only done with assistance from government and CSR funds. But considering the sustainability factor, it is viable in the long run. Lora is the technology of the future and researched are being conducted for more efficient and cost effective Lora technologies. 
 
+![image](https://user-images.githubusercontent.com/65534301/122575619-903f9c80-d06e-11eb-979b-25c03ad838b4.png)
