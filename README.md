@@ -20,7 +20,7 @@ These are made possible by calling data from the cloudant™ database by creatin
 Since this is an expensive project, this can be only done with assistance from government and CSR funds. But considering the sustainability factor, it is viable in the long run. Lora is the technology of the future and researched are being conducted for more efficient and cost effective Lora technologies. 
 
 
-##Architecture
+## Architecture
 
 ![image](https://user-images.githubusercontent.com/65534301/122575619-903f9c80-d06e-11eb-979b-25c03ad838b4.png)
 
@@ -31,6 +31,20 @@ Since this is an expensive project, this can be only done with assistance from g
  5. This data is stored into cloudant Db
  6. mobile app built with flutter tm gets this data from databse and shows it to user
  
- ##project roadmap
+ ## Project Roadmap
  
  ![Capture](https://user-images.githubusercontent.com/65534301/122576359-3be8ec80-d06f-11eb-8509-835235a50a1a.JPG)
+
+## Live Demo
+
+## Built with 
+IBM Cloudant - The NoSQL database used
+IBM Cloud Functions - The compute platform for handing logic gateway using Raspberry pi 3 and lora modules Lorawan network built using things network
+IBM Watson IoT platform - for designing and testing IoT devices
+
+## Contributors
+Shone Stalin
+Fathima Shirin
+Niranjan Neelakantan
+Linette Joseph
+Anjana Thomas
