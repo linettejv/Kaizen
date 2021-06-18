@@ -45,10 +45,10 @@ Since this is an expensive project, this can be only done with assistance from g
 3. IBM Watson IoT platform - for designing and testing IoT devices
 
 ## Contributors
-<li>
-Shone Stalin
-Fathima Shirin
-Niranjan Neelakantan
-Linette Joseph
-Anjana Thomas
-</li>
+<ul>
+<li>Shone Stalin</li>
+<li>Fathima Shirin</li>
+<li>Niranjan Neelakantan</li>
+<li>Linette Joseph</li>
+<li>Anjana Thomas</li>
+</ui>
