@@ -39,7 +39,9 @@ Since this is an expensive project, this can be only done with assistance from g
 
 ## Built with 
 1.IBM Cloudant - The NoSQL database used
+
 2.IBM Cloud Functions - The compute platform for handing logic gateway using Raspberry pi 3 and lora modules Lorawan network built using things network
+
 3.IBM Watson IoT platform - for designing and testing IoT devices
 
 ## Contributors
